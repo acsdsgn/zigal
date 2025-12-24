@@ -1,8 +1,8 @@
-# ZIGAL 
-Transparent restoration of the 1980s game “ZIGAL”, preserving original materials and development context  
+# ZIGAL
+Transparent restoration of the 1980s game “ZIGAL”, preserving original materials and development context.
 
-Action Game  
-PC-8801SR Series (V2 Mode) BASIC + Machine Language (DISK-BASIC)
+**Action Game**  
+PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
 
 ---
 ## Story
