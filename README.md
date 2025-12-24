@@ -30,7 +30,7 @@ This project is licensed under the MIT License.
 See the LICENSE file for details.
 
 ## Reconstruction
-This game was created by the author when he was a second-year high school student. It was featured in a computer magazine at the time. This work has been reconstructed from the magazine. This repository contains the dump list with checksums, as well as the Excel spreadsheet used in the reconstruction (for checksum verification and formatting). This is supplementary material to ensure transparency and reproducibility of the reconstruction process. For a detailed reconstruction note, see [Reconstruction Notes](docs/reconstruction_notes_en.md).
+This game was created by the author when he was a second-year high school student. It was featured in [a computer magazine](docs/reconstruction_notes_en.md#published-magazine) at the time. This work has been reconstructed from the magazine. This repository contains the dump list with checksums, as well as the Excel spreadsheet used in the reconstruction (for checksum verification and formatting). This is supplementary material to ensure transparency and reproducibility of the reconstruction process. For a detailed reconstruction note, see [Reconstruction Notes](docs/reconstruction_notes_en.md).
 
 ## Current Status
 - Graphics: Implemented
@@ -43,6 +43,8 @@ This game was created by the author when he was a second-year high school studen
 # 日本語版
 **アクションゲーム**  
 PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
+
+---
 
 ## ストーリー
 西暦 **2084 年**──かつての時代からは想像もつかないほど遠い未来。  
