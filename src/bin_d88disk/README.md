@@ -1,7 +1,7 @@
 # bin_d88disk/ — Binary used with d88disk
 
 Binary with the BLOAD header
-Their file name is adequate to d88disk
+Their file name is appropriate for use with `d88disk.exe`
 
 ## Tools used
 - TXT2BIN  

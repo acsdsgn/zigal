@@ -1,4 +1,6 @@
 
+machine‑code text with BLOAD header
+
 ## Tools used
 - TXT2BIN  
 txt2bin102.exe  
