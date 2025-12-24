@@ -1,0 +1,7 @@
+10 CLEAR, &HB8FF
+20 BLOAD "zigal.mai", &HB900
+30 BLOAD "zigal.cha", &H1000
+40 BLOAD "title1", &H4B40
+50 BLOAD "title2", &H6640
+60 BLOAD "zigal.dat", &H7000
+70 DEF USR=&HC000: A=USR(0)
