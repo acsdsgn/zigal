@@ -41,8 +41,8 @@ This game was created by the author when he was a second-year high school studen
 ---
 
 # 日本語版
-アクションゲーム  
-PC-8801SRシリーズ(V2モード) BASIC+マシン語 (DISK-BASIC)
+**アクションゲーム**  
+PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
 
 ## ストーリー
 西暦 **2084 年**──かつての時代からは想像もつかないほど遠い未来。  
