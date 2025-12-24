@@ -91,8 +91,8 @@ save "start"
 
 ## 使用したツール
 
-- M88 - PC-8801エミュレータ
-M88用機能拡張モジュール DISKDRV v0.21
+- M88 - PC-8801エミュレータ  
+M88用機能拡張モジュール DISKDRV v0.21  
 <http://www.remus.dti.ne.jp/~cisc/>
 
 - QUASI88 - PC-8801エミュレータ  
