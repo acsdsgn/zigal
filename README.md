@@ -37,7 +37,7 @@ Both a keyboard and a joystick (not tested on the emulator) can be used. Use the
 
 ## License
 This project is licensed under the MIT License.
-See the LICENSE file for details.
+See the [LICENSE file](LICENSE) for details.
 
 ## Reconstruction
 This game was created by the author when he was a second-year high school student. It was featured in [a computer magazine](docs/reconstruction_notes_en.md#published-magazine) at the time. This work has been reconstructed from the magazine. This repository contains the dump list with checksums, as well as the Excel spreadsheet used in the reconstruction (for checksum verification and formatting). This is supplementary material to ensure transparency and reproducibility of the reconstruction process. For a detailed reconstruction note, see [Reconstruction Notes](docs/reconstruction_notes_en.md).
@@ -71,7 +71,7 @@ PC-8801SR Series (V2 Mode) — BASIC + マシン語 (DISK-BASIC)
 
 ## ライセンス  
 このプロジェクトはMITライセンスの下でライセンスされています。
-詳細についてはLICENSEファイルをご覧ください。
+詳細については[LICENSEファイル](LICENSE)をご覧ください。
 
 ## 復刻
 このゲームは，作者が高校2年生のときに作成したものです。それを当時の[パソコン雑誌](docs/reconstruction_notes_ja.md#掲載雑誌)に掲載していただきました。雑誌から作品を復刻しました。本リポジトリには、チェックサム付きのダンプリストに加え、復刻作業で使用した Excel シート（チェックサム検証・整形用）も含まれています。これは復刻プロセスの透明性と再現性を確保するための補助資料です。詳細は[復刻ノート](docs/reconstruction_notes_ja.md) をご覧ください。  
