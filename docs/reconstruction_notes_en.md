@@ -3,7 +3,7 @@
 ---
 
 ## Procedure
-The restoration was carried out as follows.
+The Reconstruction was carried out as follows.
 
 ### 1. OCR of Machine Code
 The dump listings published in the [magazine](#Published-Magazine) were scanned and converted into text data.  
