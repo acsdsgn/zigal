@@ -5,14 +5,7 @@ Transparent restoration of the 1980s game “ZIGAL”, preserving original mater
 PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
 
 ## Video & Screenshots
-- [Video](docs/Video/zigal_play.mp4)
-
-- <video src="docs/Video/zigal_play.mp4" controls></video>
-
-- <video src="https://github.com/user-attachments/assets/5fb8f43c-acc1-4498-ba67-1d895418b750" controls>
-
-
-- <video controls src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/Video/zigal_play.mp4">
+- <video src="https://github.com/user-attachments/assets/5fb8f43c-acc1-4498-ba67-1d895418b750" controls loop autoplay muted width="400">
 
 - Title (including emulator M88)  
 <img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_title.png" width="400">  
