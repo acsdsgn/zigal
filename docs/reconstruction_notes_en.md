@@ -120,4 +120,4 @@ With this, the files stored in [ZIGAL.d88](../ZIGAL.d88) were completed.
 ---
 
 ## Published Magazine
-*POPCOM* Vol. 67, pp. 263–276, Shogakukan (Oct. 1988)
+POPCOM Vol. 67, pp. 263–276, Shogakukan (Oct. 1988)
