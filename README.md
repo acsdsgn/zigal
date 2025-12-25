@@ -4,6 +4,19 @@ Transparent restoration of the 1980s game “ZIGAL”, preserving original mater
 **Action Game**  
 PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
 
+## Video & Screenshots
+- [Video](docs/Video/zigal_play.mp4)
+- Title (including emulator M88)  
+<img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_title.png" width="400">
+- Stage 1  
+<img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_1.png" width="400">
+
+## Current Status
+- Graphics: Implemented
+- Controls: Implemented
+- Sound: Not implemented (same as the original)
+
+---
 ---
 ## Story
 In the year **2084**, far beyond the age we once knew, the Earth’s resources have finally reached the point of exhaustion.  
@@ -20,22 +33,12 @@ Start DISK-BASIC on a PC-8801 emulator. Insert [ZIGAL.d88](ZIGAL.d88) into the d
 ## Controls
 Both a keyboard and a joystick (not tested on the emulator) can be used. Use the 8246 numeric keypad to move up, down, left, and right, and the space bar to fire the AIR-GUN. Push the joystick in the direction you want to move, and use the outer button to fire the AIR-GUN.
 
-## Video & Screenshots
-- [Video](docs/Video/zigal_play.mp4)
-- [Title (including emulator M88)](docs/screenshots/zigal_screenshot_title.png)
-- [Stage 1](docs/screenshots/zigal_screenshot_1.png)
-
 ## License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
 ## Reconstruction
 This game was created by the author when he was a second-year high school student. It was featured in [a computer magazine](docs/reconstruction_notes_en.md#published-magazine) at the time. This work has been reconstructed from the magazine. This repository contains the dump list with checksums, as well as the Excel spreadsheet used in the reconstruction (for checksum verification and formatting). This is supplementary material to ensure transparency and reproducibility of the reconstruction process. For a detailed reconstruction note, see [Reconstruction Notes](docs/reconstruction_notes_en.md).
-
-## Current Status
-- Graphics: Implemented
-- Controls: Implemented
-- Sound: Not implemented (same as the original)
 
 ---
 ---
@@ -64,22 +67,12 @@ PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
 ## 操作方法
   キーボード，ジョイスティック（エミュレータ上で未検証）ともに使用可能です。テンキーの8246で上下左右に移動，スペースキーでAIR-GUNを発射します。ジョイスティックはたおした方向に移動し，外側のボタンでAIR-GUNを発射します。
 
-## 動画・スクリーンショット
-- [動画](docs/Video/zigal_play.mp4)
-- [タイトル（エミュレータM88を含む）](docs/screenshots/zigal_screenshot_title.png)
-- [1面](docs/screenshots/zigal_screenshot_1.png)
-
 ## ライセンス  
 このプロジェクトはMITライセンスの下でライセンスされています。
 詳細についてはLICENSEファイルをご覧ください。
 
 ## 復刻
 このゲームは，作者が高校2年生のときに作成したものです。それを当時の[パソコン雑誌](docs/reconstruction_notes_ja.md#掲載雑誌)に掲載していただきました。雑誌から作品を復刻しました。本リポジトリには、チェックサム付きのダンプリストに加え、復刻作業で使用した Excel シート（チェックサム検証・整形用）も含まれています。これは復刻プロセスの透明性と再現性を確保するための補助資料です。詳細は[復刻ノート](docs/reconstruction_notes_ja.md) をご覧ください。  
-
-## 現在のステータス
-- グラフィック: 実装済み
-- コントロール: 実装済み
-- サウンド: 未実装（オリジナルと同じ）
 
 ---
 
