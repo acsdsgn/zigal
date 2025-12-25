@@ -47,7 +47,7 @@ This game was created by the author when he was a second-year high school studen
 
 # 日本語版
 **アクションゲーム**  
-PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
+PC-8801SR Series (V2 Mode) — BASIC + マシン語 (DISK-BASIC)
 
 ---
 
