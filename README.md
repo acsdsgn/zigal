@@ -6,8 +6,10 @@ PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
 
 ## Video & Screenshots
 - [Video](docs/Video/zigal_play.mp4)
+
 - Title (including emulator M88)  
-<img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_title.png" width="400">
+<img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_title.png" width="400">  
+
 - Stage 1  
 <img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_1.png" width="400">
 
