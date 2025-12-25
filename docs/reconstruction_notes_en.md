@@ -1,16 +1,16 @@
-# **Restoration Notes**
+# Restoration Notes
 
 ---
 
-## **Procedure**
+## Procedure
 The restoration was carried out as follows.
 
-### **1. OCR of Machine Code**
-The dump listings published in the [magazine](#掲載雑誌) were scanned and converted into text data.  
+### 1. OCR of Machine Code
+The dump listings published in the [magazine](#Published-Magazine) were scanned and converted into text data.  
 This produced address fields and hexadecimal machine‑code text.  
 Practically, the scanned images were uploaded to Google Drive and opened in *Google Document* to extract text.
 
-### **2. Machine‑Code Repair**
+### 2. Machine‑Code Repair
 All work was performed using the spreadsheet software *Microsoft Excel*.
 
 1. **Importing the dump listing**  
@@ -28,7 +28,7 @@ All work was performed using the spreadsheet software *Microsoft Excel*.
    The verified machine‑code data was formatted, and code for binary generation was produced.  
    This yielded the final machine‑code text data.
 
-### **3. Generating and Loading Machine Code**
+### 3. Generating and Loading Machine Code
 Machine‑code data for use under N88 DISK‑BASIC was generated and tested to ensure correct loading.
 
 1. **Adding BLOAD headers to the machine‑code text**  
@@ -79,7 +79,7 @@ BSAVE "zigal.dat", &H7000, &HF30
 
 The headers shown earlier can be computed from these BSAVE arguments.
 
-### **4. Generating the BASIC Program**
+### 4. Generating the BASIC Program
 As with the machine code, the BASIC program was OCR‑converted into text.  
 It was then loaded and saved in the PC‑8801 emulator M88 as follows:
 
@@ -93,7 +93,7 @@ With this, the files stored in [ZIGAL.d88](../ZIGAL.d88) were completed.
 
 ---
 
-## **Tools Used**
+## Tools Used
 
 - **M88 – PC‑8801 Emulator**  
   M88 Extension Module: DISKDRV v0.21  
@@ -119,5 +119,5 @@ With this, the files stored in [ZIGAL.d88](../ZIGAL.d88) were completed.
 
 ---
 
-## **Published Magazine**
+## Published Magazine
 *POPCOM* Vol. 67, pp. 263–276, Shogakukan (Oct. 1988)
