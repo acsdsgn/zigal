@@ -20,7 +20,7 @@ Click the image below to open the video page
 <img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_title.png" width="400"></img>  
 -->
 
-- Stage 1  
+- Field 01  
 <img src="https://raw.githubusercontent.com/acsdsgn/zigal/main/docs/screenshots/zigal_screenshot_1.png" width="400"></img>
 
 ## Current Status
@@ -37,7 +37,7 @@ Humanity, unable to resolve its conflicts, has plunged into the **Ninth World Wa
 All vehicles now hover using **AIR** technology, and every weapon on the battlefield is an **AIR-GUN**, powered by the same enigmatic energy source.
 
 Amid the chaos of a collapsing world, survival depends on a single mission:  
-**break through all 50 stages of relentless combat and outlast the war itself.**
+**break through all 50 fields of relentless combat and outlast the war itself.**
 
 ## How to Run (How to Use M88 / QUASI88)
 Start DISK-BASIC on a PC-8801 emulator. Insert [ZIGAL.d88](ZIGAL.d88) into the drive and execute with ```run "start"```. No game sound.
