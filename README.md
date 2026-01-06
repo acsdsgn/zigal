@@ -9,9 +9,10 @@ PC-8801SR Series (V2 Mode) — BASIC + Machine Language (DISK-BASIC)
 - <video src="https://github.com/user-attachments/assets/5fb8f43c-acc1-4498-ba67-1d895418b750" controls loop autoplay muted width="400"></video>
 -->
 
-- Play Video - Title (including emulator M88)<a href="https://github.com/user-attachments/assets/5fb8f43c-acc1-4498-ba67-1d895418b750">
+- Play Video - Title (including emulator M88)  
+  <a href="https://github.com/user-attachments/assets/5fb8f43c-acc1-4498-ba67-1d895418b750">
   <img src="docs/screenshots/zigal_screenshot_title.png" width="400">
-</a>
+  </a>
 
 <!--
 - Title (including emulator M88)  
